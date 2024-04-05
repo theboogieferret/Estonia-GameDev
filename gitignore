@@ -1,0 +1,20 @@
+# Unity
+Library
+Logs
+Temp
+UserSettings
+*.csproj
+*.sln
+Assets/Fantasy UI
+Assets/Fantasy UI.meta
+/Assets/Jewel Pack/
+Assets/Jewel Pack.meta
+
+# Visual Studio
+Build
+obj
+.vs
+.vsconfig
+
+
+
